@@ -1,3 +1,6 @@
+# Tigrinho Supremo
+![alt text]([image-url](https://github.com/vicenzofr/Tigrinho-Supremo-Jogo-de-Roleta-de-Emojis/commit/2ca56846e1965209422f447cea9153fd6824d210))
+
 **Descrição:**
 
 Tigrinho Supremo é um jogo de roleta inspirado em caça-níqueis, desenvolvido em Java. O jogador aposta um valor e gira uma matriz 3x3 de emojis, tentando alinhar símbolos iguais em linhas ou colunas. Cada símbolo possui multiplicadores de ganhos diferentes, e mesmo que nenhuma linha ou coluna seja acertada, o jogador recebe um ganho mínimo garantido.
