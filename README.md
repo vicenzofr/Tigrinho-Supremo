@@ -1,5 +1,6 @@
 # Tigrinho Supremo
-![Image Little Tiger](Little%20Tiger.png)
+<img src="Little%20Tiger.png" width="300" height="200">
+
 
 **Descrição:**
 
