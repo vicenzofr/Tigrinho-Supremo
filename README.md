@@ -2,11 +2,11 @@
 <img src="Little%20Tiger.png" width="700" height="600">
 
 
-**Descrição:**
+### Descrição:
 
 Tigrinho Supremo é um jogo de roleta inspirado em caça-níqueis, desenvolvido em Java. O jogador aposta um valor e gira uma matriz 3x3 de emojis, tentando alinhar símbolos iguais em linhas ou colunas. Cada símbolo possui multiplicadores de ganhos diferentes, e mesmo que nenhuma linha ou coluna seja acertada, o jogador recebe um ganho mínimo garantido.
 
-**Funcionalidades:**
+### Funcionalidades:
 
 - Sistema de aposta com valor definido pelo jogador.
 
@@ -20,7 +20,7 @@ Tigrinho Supremo é um jogo de roleta inspirado em caça-níqueis, desenvolvido 
 
 - Resultado final exibido de forma clara, com formatação de valores.
 
-**Tecnologias:**
+### Tecnologias:
 
 - Java
 
