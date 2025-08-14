@@ -1,5 +1,3 @@
-package maratonajava.devdojo.Exercicios.Little_tiger;
-
 import java.text.DecimalFormat;
 import java.util.Scanner;
 import java.security.SecureRandom;
@@ -96,4 +94,5 @@ import java.security.SecureRandom;
                 System.out.println("---------------------------------");
             }
         }
+
     }
